@@ -6,11 +6,6 @@ website:
     style: "floating"
     search: true
     collapse-level: 1
-    contents:
-      - section: "PSYC121"
-        contents: PSYC121/*
-      - section: "PSYC122"
-        contents: PSYC122/*
 
 format:
   html: 
